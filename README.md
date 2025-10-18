@@ -2,7 +2,7 @@
 
 Validate your startup ideas with AI-powered insights.
 
-🔗 **Live Site**: [startup-validation.netlify.app](https://startup-validation.netlify.app/)
+🔗 **Live Site**: [[startup-validation.netlify.app](https://startup-validation.netlify.app/)](https://idea-pulse-rho.vercel.app/)
 
 ##  Features
 
