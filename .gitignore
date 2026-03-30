@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+
+# Node.js
+# /node_modules
+/node_modules
+/.pnp
+.pnp.js
+.yarn-integrity
+.cache
+.env
+.env*.local
+.parcel-cache
+.npm/
+.yarn/
+.vite-inspect
+dist/
+dist-ssr/
+public/
+temp/
+coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+*.orig
+*.rej
+*.swo
+*.swn
+*.swo
+*.tmp
+*.log
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
